@@ -5,8 +5,6 @@ This repository is about quantum convolutional neural network in protein distanc
 >
 >**Quantum Convolutional Neural Network on Protein Distance Prediction**
 
-The code is based on pdnet project: https://github.com/ba-lab/pdnet.
-
 # Install
 - pip install torch
 - pip install pennylane
@@ -27,3 +25,5 @@ The code is based on pdnet project: https://github.com/ba-lab/pdnet.
 - Setting the config by `python3 train.py -h`
 - Edit the train.py
 - `python3 train.py`
+
+The code is based on pdnet project: https://github.com/ba-lab/pdnet.
