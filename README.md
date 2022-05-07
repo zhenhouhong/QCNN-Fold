@@ -26,4 +26,5 @@ This repository is about quantum convolutional neural network in protein distanc
 - Edit the train.py
 - `python3 train.py`
 
-The code is based on pdnet project: https://github.com/ba-lab/pdnet.
+# This repository is based on pdnet project.
+https://github.com/ba-lab/pdnet
