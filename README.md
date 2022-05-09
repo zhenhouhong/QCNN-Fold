@@ -1,9 +1,9 @@
 # QCNN-Fold
 This repository is about quantum convolutional neural network in protein distance prediction. Except the qcircuit.py, qconv.py and qmodels.py, other part of code is based on [pdnet](https://github.com/ba-lab/pdnet) project.
 
->This repository contains the official implementation of the following paper:
+>This repository contains the official implementation of the following [paper](https://ieeexplore.ieee.org/document/9533405):
 >
->**Quantum Convolutional Neural Network on Protein Distance Prediction** 
+>**Quantum Convolutional Neural Network on Protein Distance Prediction**
 
 # Install
 - pip install torch
