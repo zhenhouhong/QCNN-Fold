@@ -9,7 +9,8 @@
 This repository is the official implementation of [Quantum Convolutional Neural Network on Protein Distance Prediction](https://ieeexplore.ieee.org/document/9533405).
 
 <div align=center><img src="https://github.com/zhenhouhong/QCNN-Fold/blob/main/qcnn-fold-process.png"></div>
-<div align='center' >The major part of QCNN in protein inter-residue distance prediction problem.</div>
+
+<div align='center'>The major part of QCNN in protein inter-residue distance prediction problem.</div>
 
 ## Requirements
 - Linux (Test on Ubuntu18.04)
