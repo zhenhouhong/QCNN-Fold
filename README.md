@@ -1,5 +1,9 @@
 # QCNN-Fold
 
+> **Quantum Convolutional Neural Network on Protein Distance Prediction**
+> 
+> Accepted by the International Joint Conference on Neural Networks (IJCNN) 2021, Oral
+
 ## Introduction
 
 This repository is the official implementation of [Quantum Convolutional Neural Network on Protein Distance Prediction](https://ieeexplore.ieee.org/document/9533405).
