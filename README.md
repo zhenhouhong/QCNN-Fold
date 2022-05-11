@@ -10,6 +10,8 @@ This repository is the official implementation of [Quantum Convolutional Neural 
 
 ![qcnnfold](https://github.com/zhenhouhong/QCNN-Fold/blob/main/qcnn-fold-process.png)
 
+<div align='center' >The major part of QCNN in protein inter-residue distance prediction problem.</div>
+
 ## Requirements
 - Linux (Test on Ubuntu18.04)
 - Python3.6+ (Test on Python3.6.8)
