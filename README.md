@@ -14,7 +14,7 @@ This repository is the official implementation of [Quantum Convolutional Neural 
 - Linux (Test on Ubuntu18.04)
 - Python3.6+ (Test on Python3.6.8)
 - PyTorch
-- Pennylane
+- PennyLane
 - Librosa (version 0.7.2)
 - Numba (version 0.48.0)
 
